@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Indexers\Indexers\obj\Debug\Indexers.pdb

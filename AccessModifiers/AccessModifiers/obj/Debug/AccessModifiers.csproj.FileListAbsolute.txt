@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

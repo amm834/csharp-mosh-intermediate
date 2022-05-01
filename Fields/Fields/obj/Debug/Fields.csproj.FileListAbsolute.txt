@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Fields\Fields\bin\Debug\Fields.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Fields\Fields\bin\Debug\Fields.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Fields\Fields\obj\Debug\Fields.csprojResolveAssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Fields\Fields\obj\Debug\Fields.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\Fields\Fields\obj\Debug\Fields.pdb
