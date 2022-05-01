@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\ObjectInitializater\ObjectInitializater\bin\Debug\ObjectInitializater.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\ObjectInitializater\ObjectInitializater\bin\Debug\ObjectInitializater.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\ObjectInitializater\ObjectInitializater\obj\Debug\ObjectInitializater.csprojResolveAssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\ObjectInitializater\ObjectInitializater\obj\Debug\ObjectInitializater.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\ObjectInitializater\ObjectInitializater\obj\Debug\ObjectInitializater.pdb
