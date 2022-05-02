@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnBoxing", "BoxingAndUnBoxing\BoxingAndUnBoxing.csproj", "{E93B9F06-7982-4686-B0E7-FC0BEA5A051A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93B9F06-7982-4686-B0E7-FC0BEA5A051A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93B9F06-7982-4686-B0E7-FC0BEA5A051A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93B9F06-7982-4686-B0E7-FC0BEA5A051A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93B9F06-7982-4686-B0E7-FC0BEA5A051A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

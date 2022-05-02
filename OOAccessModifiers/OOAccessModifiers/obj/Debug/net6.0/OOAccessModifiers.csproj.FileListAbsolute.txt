@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\bin\Debug\net6.0\OOAccessModifiers.exe
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\bin\Debug\net6.0\OOAccessModifiers.deps.json
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\bin\Debug\net6.0\OOAccessModifiers.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\bin\Debug\net6.0\OOAccessModifiers.dll
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\bin\Debug\net6.0\OOAccessModifiers.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.dll
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\refint\OOAccessModifiers.dll
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.pdb
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\OOAccessModifiers.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh-intermediate\OOAccessModifiers\OOAccessModifiers\obj\Debug\net6.0\ref\OOAccessModifiers.dll
